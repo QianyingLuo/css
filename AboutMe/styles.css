@@ -10,9 +10,10 @@ body{
     justify-content:space-between;
 }
 
-.header .alexa{
-    margin:none;
-    padding: none;
+.header .Q{
+    margin:5px 0 0 10px;
+    width:50px;
+    height: 40px;
 
 }
 
